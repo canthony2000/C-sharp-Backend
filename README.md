@@ -5,15 +5,12 @@ Created by Corey Anthony
 
 - Install git.
 - Install NuGet
-- Install [Nancy Web framework] (http://nancyfx.org/) (NancyFx)
+- Install [Nancy Web framework](http://nancyfx.org/) (NancyFx)
 
 ## Useful information:
-- Nancy framework documentation
-https://github.com/NancyFx/Nancy/wiki/Introduction
+- Nancy framework [documentation](https://github.com/NancyFx/Nancy/wiki/Introduction)
 
-- Build Simple Web UIs with the Nancy Framework
-https://visualstudiomagazine.com/articles/2013/03/01/simple-web-uis-with-the-nancy-framework.aspx
-
+- Build Simple [Web UIs](https://visualstudiomagazine.com/articles/2013/03/01/simple-web-uis-with-the-nancy-framework.aspx) with the Nancy Framework
 
 ## Tools, Frameworks, Applications used:
 
